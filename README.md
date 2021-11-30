@@ -5,6 +5,8 @@ wget https://raw.githubusercontent.com/alixgamer175/vpn/main/install.sh && bash 
 # Google Colab
 Go to https://colab.research.google.com/  
 ```
+% cd ~
+! rm -rf *
 ! wget https://raw.githubusercontent.com/alixgamer175/vpn/main/install-colab.sh && bash install-colab.sh
 ```
 More instructions added soon
