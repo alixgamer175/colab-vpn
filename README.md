@@ -1,1 +1,1 @@
-# colab-vpn
+# Open VPN In Google Colab
