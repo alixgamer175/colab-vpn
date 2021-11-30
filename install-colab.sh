@@ -1,5 +1,6 @@
 apt update
 apt install ca-certificates wget net-tools gnupg -y
+pip install pyovpn-as
 wget -qO - https://as-repository.openvpn.net/as-repo-public.gpg | apt-key add -
 echo "deb http://as-repository.openvpn.net/as/debian bionic main">/etc/apt/sources.list.d/openvpn-as-repo.list
 apt update
